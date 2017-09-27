@@ -6,7 +6,9 @@ class GoogleMap extends Component {
   }
   render( ){
     return(
-      <div></div>
+      <div>
+        {/*O METODO CONSTRUTOR DESSE EXEMPLO PODE SER SEGUIDO IGUAL AO 'searchMap.js'*/}
+      </div>
     )
   }
 }
