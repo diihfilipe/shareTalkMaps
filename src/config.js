@@ -1,0 +1,1 @@
+export const MAPS_KEY = `AIzaSyCC7hBGILuY9ji8dqtx4Xwge5BnkQr-Uic` // chaves zica do diego
